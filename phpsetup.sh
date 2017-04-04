@@ -14,11 +14,23 @@ apm install pigments
 apm install tool-bar
 # really easy to open up your GIT projects
 apm install git-projects
+# Sublime like multi cursor
+apm install multi-cursor
+# Edit CSV files using a table editor
+apm install tablr
+# Lots of monospace fonts
+apm install fonts
+
+# Generic bottom dock for quick panel development
+bottom-dock
+
 
 # TODO-show reveals comments scattered through your project containing keywords such as TODO, FIXME and CHANGED
 apm install todo-show
 # displaying a condensed view of your code for quick navigation.
 apm install minimap
+apm install minimap-linter
+apm install minimap-pigments
 
 # Automates closing of HTML Tags
 apm install autoclose-html
@@ -28,18 +40,30 @@ apm install linter
 apm install linter-htmlhint
 apm install linter-csslint
 apm install linter-jshint
+apm install linter-eslint
+apm install linter-sass-lint
+apm install linter-json-lint
+apm install linter-flow
+apm install linter-php
+apm install linter-phpmd
+apm install linter-javac
 
 
-
+# aligner packages
+apm install aligner
+apm install aligner-css
+apm install aligner-javascript
+apm install aligner-php
+apm install aligner-scss
+apm install aligner-php
 
 
 # intelligent autocomplete with type information.
 apm install atom-ternjs
 # plugin auto-completes node modules as well as file paths
 apm install autocomplete-modules
+apm install autocomplete-java
 
-apm install linter-eslint
-apm install linter-flow
 
 # type aware autocomplete, Ctrl+Click to go to definition,
 apm install nuclide
@@ -49,12 +73,11 @@ apm install nuclide
 
 # Run the 'PHP Coding Standards Fixer' within Atom
 apm install php-cs-fixer
-# Lint PHP on the fly, using php -l
-apm install linter-php
-apm install linter-phpmd
 # Hyperclick provider for PHP. Open file when classname is clicked
 apm install php-hyperclick
-apm install aligner-php
 
 # Postman for atom
 apm install rest-client
+
+# Make your Java development experience bareable.
+apm install java-plus
