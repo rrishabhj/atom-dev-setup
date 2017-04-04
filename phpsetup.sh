@@ -4,6 +4,8 @@ apm install monokai-seti
 
 # basic atom setup
 apm install atom-beautify
+# different indentation styles
+apm install auto-detect-indentation
 # easy to open recent files and folders from the “File” menu
 apm install open-recent
 # Color previews for color strings in any file
@@ -15,13 +17,24 @@ apm install git-projects
 
 # TODO-show reveals comments scattered through your project containing keywords such as TODO, FIXME and CHANGED
 apm install todo-show
+# displaying a condensed view of your code for quick navigation.
+apm install minimap
+
+# Automates closing of HTML Tags
+apm install autoclose-html
+
+# Get linter powers
+apm install linter
+apm install linter-htmlhint
+apm install linter-csslint
+apm install linter-jshint
+
+
 
 
 
 # intelligent autocomplete with type information.
 apm install atom-ternjs
-# different indentation styles
-apm install auto-detect-indentation
 # plugin auto-completes node modules as well as file paths
 apm install autocomplete-modules
 
@@ -41,5 +54,7 @@ apm install linter-php
 apm install linter-phpmd
 # Hyperclick provider for PHP. Open file when classname is clicked
 apm install php-hyperclick
-
 apm install aligner-php
+
+# Postman for atom
+apm install rest-client
