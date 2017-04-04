@@ -1,3 +1,36 @@
+# Awesome UI with file Icons
+apm install seti-ui
+apm install monokai-seti
+
+# basic atom setup
+apm install atom-beautify
+# easy to open recent files and folders from the “File” menu
+apm install open-recent
+# Color previews for color strings in any file
+apm install pigments
+# adds a handy customizable toolbar in the UI
+apm install tool-bar
+# really easy to open up your GIT projects
+apm install git-projects
+
+# TODO-show reveals comments scattered through your project containing keywords such as TODO, FIXME and CHANGED
+apm install todo-show
+
+
+
+# intelligent autocomplete with type information.
+apm install atom-ternjs
+# different indentation styles
+apm install auto-detect-indentation
+# plugin auto-completes node modules as well as file paths
+apm install autocomplete-modules
+
+apm install linter-eslint
+apm install linter-flow
+
+# type aware autocomplete, Ctrl+Click to go to definition,
+apm install nuclide
+
 
 # php setup
 
