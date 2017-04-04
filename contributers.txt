@@ -1,0 +1,3 @@
+https://www.sitepoint.com/10-essential-atom-add-ons/
+https://medium.com/@satya164/supercharged-javascript-development-in-atom-ea034e22eabc
+https://benmccormick.org/2014/10/13/setting-up-your-text-editor-for-javascript-development/
