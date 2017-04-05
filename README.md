@@ -1,3 +1,7 @@
+### Show some :heart:
+[![GitHub stars](https://img.shields.io/github/stars/rrishabhj/atom-dev-setup.svg?style=social&label=Star)](https://github.com/rrishabhj/atom-dev-setup) [![GitHub forks](https://img.shields.io/github/forks/rrishabhj/atom-dev-setup.svg?style=social&label=Fork)](https://github.com/rrishabhj/atom-dev-setup/fork) [![GitHub watchers](https://img.shields.io/github/watchers/rrishabhj/atom-dev-setup.svg?style=social&label=Watch)](https://github.com/rrishabhj/atom-dev-setup) [![GitHub followers](https://img.shields.io/github/followers/rrishabhj.svg?style=social&label=Follow)](https://github.com/rrishabhj/atom-dev-setup) 
+
+
 # atom-dev-setup
 Easy develepment setup for atom to install the much needed packages for dev in HTML/CSS, javascript, python, PHP
 
